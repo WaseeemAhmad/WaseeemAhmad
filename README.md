@@ -1,171 +1,136 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F3C&height=200&section=header&text=Waseem%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%20Automation%20Expert&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Waseem%20Ahmad&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Automation%20Engineer&descSize=18&descAlignY=56&descColor=fff" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://waseemahmad.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F3C?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/waseemahmeddev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/waseemahmad" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://waseemahmad.hashnode.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="mailto:contact@waseemahmad.dev">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6F3C&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+enterprise+SaaS+%7C+AI+agents+%7C+production+APIs;Next.js+%C2%B7+NestJS+%C2%B7+LangChain+%C2%B7+n8n+%C2%B7+PostgreSQL;46+projects+shipped+%C2%B7+100%25+Upwork+Job+Success+%C2%B7+6%2B+years" alt="Typing SVG" />
 </div>
 
 <br/>
 
-```typescript
-const waseem = {
-  location:     "Dubai, UAE 🇦🇪",
-  experience:   "6+ years",
-  projects:     "46+ shipped",
-  successRate:  "100% on Upwork ⭐",
-  available:    true,
+<div align="center">
+  <a href="https://waseemahmad.dev"><img src="https://img.shields.io/badge/🌐_waseemahmad.dev-FF6F3C?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://calendly.com/waseemahmedofficial2000/30min"><img src="https://img.shields.io/badge/📅_Book_a_Call-00A67E?style=for-the-badge"/></a>
+  <a href="mailto:contact@waseemahmad.dev"><img src="https://img.shields.io/badge/✉️_contact@waseemahmad.dev-EA4335?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/waseemahmeddev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
-  stack: {
-    frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend:    ["Node.js", "NestJS", "Express", "PostgreSQL", "MongoDB"],
-    ai:         ["LangChain", "OpenAI", "Claude API", "n8n", "RAG"],
-    devops:     ["AWS", "Vercel", "Docker", "GitHub Actions"],
-  },
+<br/>
 
-  currentlyBuilding: "AI-powered SaaS platforms for enterprise clients",
-  openTo:            ["Freelance", "Contract", "Technical Consulting"],
-};
+---
+
+## 👋 About Me
+
+I'm a **Full Stack Developer and AI Automation Engineer** based in Dubai, working remotely with startups and enterprises across the **UK, USA, Europe, and the Middle East**.
+
+I specialise in two things:
+
+1. **Production-grade web applications** — multi-tenant SaaS, healthcare platforms (HIPAA/HL7), fintech systems (GDPR/PCI), and e-commerce at scale
+2. **AI automation systems** — RAG pipelines, AI agents, LangChain orchestration, n8n workflows that eliminate 20+ hours of manual work per week
+
+I don't build prototypes. I build systems that run in production, handle real users, and generate real revenue.
+
+```
+📦 46 projects shipped   ⭐ 100% Upwork job success   🕐 6+ years   🌍 15+ countries served
 ```
 
-<br/>
+---
 
-## 🚀 What I Build
+## 🎯 Specialisations
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚡ Full Stack Development</h3>
-      <p>Production-ready MERN, MEAN, PERN stack applications. From MVP to scale — clean architecture, TypeScript throughout, CI/CD from day one.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 AI Automation</h3>
-      <p>AI agents, RAG systems, n8n workflows, LangChain integrations. Automating 20+ hours/week of manual work for businesses worldwide.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>☁️ SaaS Platforms</h3>
-      <p>Multi-tenant SaaS from zero to production. Auth, billing (Stripe), RBAC, analytics — the full stack delivered.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🏥 Healthcare Tech</h3>
-      <p>HIPAA-compliant systems, HL7/FHIR integrations, patient portals, practice management software. Compliance built in from day one.</p>
-    </td>
-  </tr>
-</table>
+| Domain | What I Build | Standards |
+|--------|-------------|-----------|
+| **Healthcare** | Practice management, patient portals, EHR integrations | HIPAA, HL7/FHIR |
+| **Fintech** | Payment platforms, subscription billing, financial dashboards | PCI-DSS, GDPR |
+| **SaaS** | Multi-tenant platforms, usage billing, analytics | SOC2-ready patterns |
+| **AI Automation** | RAG systems, AI agents, workflow automation | OpenAI, LangChain, n8n |
+| **E-Commerce** | Custom storefronts, inventory, order management | Stripe, GDPR |
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-**Frontend**
+**Core**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,nestjs&theme=dark" />
 
-**Backend**
+**Databases & Infrastructure**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws&theme=dark" />
 
 **AI & Automation**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,openai,github&theme=dark" />
 
-**DevOps & Cloud**
+> LangChain · n8n · LlamaIndex · Pinecone · pgvector · Claude API · Vercel AI SDK
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=prisma,graphql,github,vercel,linux&theme=dark" />
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaseeemAhmad&show_icons=true&theme=dark&bg_color=0C0C0C&title_color=FF6F3C&icon_color=FF6F3C&text_color=EDE8E0&border_color=2A2A2A&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaseeemAhmad&layout=compact&theme=dark&bg_color=0C0C0C&title_color=FF6F3C&text_color=EDE8E0&border_color=2A2A2A&langs_count=8" height="165" />
+  <img src="https://streak-stats.demolab.com?user=WaseeemAhmad&theme=transparent&background=00000000&ring=FF6F3C&fire=FF6F3C&currStreakLabel=FF6F3C&sideLabels=999999&dates=666666&border=333333&stroke=333333" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WaseeemAhmad&theme=dark&background=0C0C0C&ring=FF6F3C&fire=FF6F3C&currStreakLabel=FF6F3C&sideLabels=EDE8E0&dates=8A8480&border=2A2A2A" width="495"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WaseeemAhmad&show_icons=true&theme=transparent&title_color=FF6F3C&icon_color=FF6F3C&text_color=cccccc&border_color=333333&count_private=true&hide_border=false&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaseeemAhmad&layout=compact&theme=transparent&title_color=FF6F3C&text_color=cccccc&border_color=333333&langs_count=6&hide_border=false" />
 </div>
 
-<br/>
+---
 
-## 🏆 Featured Projects
+## 🤝 Work With Me
 
-<div align="center">
-  <a href="https://waseemahmad.dev/work/psi-nest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaseeemAhmad&repo=portfolio&theme=dark&bg_color=0C0C0C&title_color=FF6F3C&text_color=EDE8E0&border_color=2A2A2A&icon_color=FF6F3C" />
-  </a>
-</div>
+I'm currently **open to remote freelance and contract work** — full stack development, AI automation, SaaS architecture, and technical consulting.
 
-<br/>
+**Typical engagements:**
+- 🏗 **MVP to production** — 6–12 week full-build projects
+- 🤖 **AI automation** — workflow automation and agent development
+- 🔍 **Technical consulting** — architecture review, code audit, team augmentation
+- 🔧 **Ongoing retainer** — dedicated development partner for growing startups
 
-## 📝 Latest Blog Posts
+> 📅 **[Book a free 30-minute discovery call](https://calendly.com/waseemahmedofficial2000/30min)** — no sales pitch, just a conversation about your project.
+
+---
+
+## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a Scalable SaaS Platform with Next.js and PostgreSQL](https://waseemahmad.dev/blog/build-scalable-saas-nextjs-postgresql)
 - [AI Automation for Business: A Practical Guide to Saving 20+ Hours Per Week](https://waseemahmad.dev/blog/ai-automation-business-guide)
-- [Why I Switched from Angular to Next.js (And Why You Should Too)](https://waseemahmad.dev/blog/angular-to-nextjs-migration)
 - [Building HIPAA-Compliant Healthcare Software: Lessons from PSI Nest](https://waseemahmad.dev/blog/hipaa-compliant-healthcare-software)
+- [Why I Switched from Angular to Next.js (And Why You Should Too)](https://waseemahmad.dev/blog/angular-to-nextjs-migration)
 - [The Full Stack Developer's Guide to Integrating Stripe Payments](https://waseemahmad.dev/blog/stripe-payments-integration-guide)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+*[View all articles →](https://waseemahmad.dev/blog)*
 
-## 📫 Work With Me
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WaseeemAhmad/WaseeemAhmad/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WaseeemAhmad/WaseeemAhmad/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/WaseeemAhmad/WaseeemAhmad/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
 
 <div align="center">
-
-**Available for remote freelance and contract work globally**
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6F3C?style=for-the-badge&logo=firefox&logoColor=white)](https://waseemahmad.dev)
-[![Book a Call](https://img.shields.io/badge/Book_a_Free_Call-00A67E?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/waseemahmedofficial2000/30min)
-[![Email](https://img.shields.io/badge/contact@waseemahmad.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@waseemahmad.dev)
-
+  <img src="https://komarev.com/ghpvc/?username=WaseeemAhmad&color=FF6F3C&style=flat-square&label=Profile+Views"/>
+  <br/><br/>
+  <em>Open to interesting problems. Let's build something.</em>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WaseeemAhmad&color=FF6F3C&style=flat-square&label=Profile+Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F3C&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
