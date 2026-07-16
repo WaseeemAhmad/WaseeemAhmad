@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Developer and AI Automation Engineer** based in Dubai, working remotely with startups and enterprises across the **UK, USA, Europe, and the Middle East**.
+I'm a **Full Stack Developer and AI Automation Engineer** based in Pakistan, working remotely with startups and enterprises across the **UK, USA, Europe, and the Middle East**.
 
 I specialise in two things:
 
