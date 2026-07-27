@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable SaaS Platform with Next.js and PostgreSQL](https://waseemahmad.dev/blog/build-scalable-saas-nextjs-postgresql)
-- [AI Automation for Business: A Practical Guide to Saving 20+ Hours Per Week](https://waseemahmad.dev/blog/ai-automation-business-guide)
-- [Building HIPAA-Compliant Healthcare Software: Lessons from PSI Nest](https://waseemahmad.dev/blog/hipaa-compliant-healthcare-software)
-- [Why I Switched from Angular to Next.js (And Why You Should Too)](https://waseemahmad.dev/blog/angular-to-nextjs-migration)
-- [The Full Stack Developer's Guide to Integrating Stripe Payments](https://waseemahmad.dev/blog/stripe-payments-integration-guide)
+- [Optimizing PostgreSQL Performance: Indexes, Query Planning, and Connection Pooling](https://waseemahmad.dev/blog/postgresql-performance-optimization)
+- [How to Build an E-Commerce Platform with Next.js, Stripe, and PostgreSQL](https://waseemahmad.dev/blog/ecommerce-platform-nextjs-stripe-postgresql)
+- [Building a Healthcare Patient Portal: Architecture, Security, and Compliance](https://waseemahmad.dev/blog/healthcare-patient-portal-architecture)
+- [How to Build a Multi-Step Form with React Hook Form and Zod](https://waseemahmad.dev/blog/multi-step-form-react-hook-form-zod)
+- [Deploying Next.js: Vercel vs AWS vs Self-Hosted — An Honest Comparison](https://waseemahmad.dev/blog/nextjs-deployment-vercel-aws-self-hosted)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
