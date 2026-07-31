@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Business API for AI Chatbots: What the Docs Don&#39;t Tell You](https://waseemahmad.dev/blog/whatsapp-business-api-ai-chatbot-developer-guide)
+- [Migrating from Zapier to n8n: A Real Migration Checklist](https://waseemahmad.dev/blog/zapier-to-n8n-migration-checklist)
+- [Security Holes to Check in a Lovable or Replit App Before Launch](https://waseemahmad.dev/blog/vibe-code-security-audit-pre-launch-checklist)
 - [Optimizing PostgreSQL Performance: Indexes, Query Planning, and Connection Pooling](https://waseemahmad.dev/blog/postgresql-performance-optimization)
 - [How to Build an E-Commerce Platform with Next.js, Stripe, and PostgreSQL](https://waseemahmad.dev/blog/ecommerce-platform-nextjs-stripe-postgresql)
-- [Building a Healthcare Patient Portal: Architecture, Security, and Compliance](https://waseemahmad.dev/blog/healthcare-patient-portal-architecture)
-- [How to Build a Multi-Step Form with React Hook Form and Zod](https://waseemahmad.dev/blog/multi-step-form-react-hook-form-zod)
-- [Deploying Next.js: Vercel vs AWS vs Self-Hosted — An Honest Comparison](https://waseemahmad.dev/blog/nextjs-deployment-vercel-aws-self-hosted)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
