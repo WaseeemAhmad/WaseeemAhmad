@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a CLAUDE.md That Actually Changes What the Model Does](https://waseemahmad.dev/blog/claude-md-best-practices-claude-code-consultant)
 - [Vapi vs Retell vs Bland: Choosing a Voice AI Platform in 2026](https://waseemahmad.dev/blog/vapi-vs-retell-vs-bland-voice-ai-platform-comparison)
 - [WhatsApp Business API for AI Chatbots: What the Docs Don&#39;t Tell You](https://waseemahmad.dev/blog/whatsapp-business-api-ai-chatbot-developer-guide)
 - [Migrating from Zapier to n8n: A Real Migration Checklist](https://waseemahmad.dev/blog/zapier-to-n8n-migration-checklist)
 - [Security Holes to Check in a Lovable or Replit App Before Launch](https://waseemahmad.dev/blog/vibe-code-security-audit-pre-launch-checklist)
-- [Optimizing PostgreSQL Performance: Indexes, Query Planning, and Connection Pooling](https://waseemahmad.dev/blog/postgresql-performance-optimization)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
