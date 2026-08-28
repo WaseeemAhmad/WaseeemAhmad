@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking a Replit Prototype to Production: The Actual Checklist](https://waseemahmad.dev/blog/replit-prototype-to-production-checklist)
+- [MCP Server Development: Wiring an AI Agent into Systems You Already Run](https://waseemahmad.dev/blog/mcp-server-development-guide)
 - [Designing MCP Tools That Don&#39;t Blow Up the Context Window](https://waseemahmad.dev/blog/mcp-tool-design-context-window)
 - [HubSpot and AI: The Integrations That Actually Stick](https://waseemahmad.dev/blog/hubspot-ai-integration-developer-guide)
 - [LLM Cost Optimization: Caching, Routing, and the Token Waste Hiding in Your Prompts](https://waseemahmad.dev/blog/llm-cost-optimization-caching-routing-token-waste)
-- [pgvector vs Pinecone: When the Cheap Option Is the Right One](https://waseemahmad.dev/blog/pgvector-vs-pinecone-when-cheap-option-is-right)
-- [Writing a CLAUDE.md That Actually Changes What the Model Does](https://waseemahmad.dev/blog/claude-md-best-practices-claude-code-consultant)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
