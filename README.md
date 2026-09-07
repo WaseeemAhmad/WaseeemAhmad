@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Fine-Tuning vs RAG: A Decision Table &lpar;Not a Debate&rpar;](https://waseemahmad.dev/blog/fine-tuning-vs-rag-decision-table)
 - [Agent Frameworks Compared: LangGraph, CrewAI, OpenAI Agents SDK, or Plain Code](https://waseemahmad.dev/blog/agentic-ai-development-framework-comparison)
 - [What an AI Agent Actually Does in Production &lpar;and When You Don&#39;t Need One&rpar;](https://waseemahmad.dev/blog/ai-agent-vs-workflow-when-you-dont-need-one)
 - [Taking a Replit Prototype to Production: The Actual Checklist](https://waseemahmad.dev/blog/replit-prototype-to-production-checklist)
 - [MCP Server Development: Wiring an AI Agent into Systems You Already Run](https://waseemahmad.dev/blog/mcp-server-development-guide)
-- [Designing MCP Tools That Don&#39;t Blow Up the Context Window](https://waseemahmad.dev/blog/mcp-tool-design-context-window)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
