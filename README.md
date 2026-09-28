@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Make vs n8n vs Zapier for AI Workflows: Where No-Code Stops Paying](https://waseemahmad.dev/blog/make-vs-n8n-vs-zapier-ai-workflows)
+- [What an AI Phone Agent Costs Per Minute, Broken Down](https://waseemahmad.dev/blog/ai-phone-agent-cost-per-minute-breakdown)
 - [Technical Due Diligence: The Twelve Things I Check First](https://waseemahmad.dev/blog/technical-due-diligence-twelve-checks)
 - [When a Startup Does NOT Need a Fractional CTO](https://waseemahmad.dev/blog/when-startup-does-not-need-fractional-cto)
 - [What a Website Maintenance Retainer Should and Should Not Cover](https://waseemahmad.dev/blog/website-maintenance-retainer-scope-guide)
-- [How Much Does an AI Chatbot Cost to Build and Run?](https://waseemahmad.dev/blog/ai-chatbot-cost-build-run-pricing)
-- [RAG Hallucinations: The Fixes That Actually Worked](https://waseemahmad.dev/blog/rag-hallucination-fix-retrieval-quality-first)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
