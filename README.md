@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [What a HIPAA Audit Actually Checks in Your Integration Layer](https://waseemahmad.dev/blog/hipaa-audit-integration-layer)
 - [Your AI Agent Works in the Demo. Here&#39;s What It Costs to Survive Real Users.](https://waseemahmad.dev/blog/ai-agent-production-readiness-cost)
 - [What Technical Due Diligence Will Find in Your Fintech Backend](https://waseemahmad.dev/blog/fintech-technical-due-diligence-backend-findings)
 - [Reg CF Escrow Ledger Failures That Only Show Under Audit](https://waseemahmad.dev/blog/reg-cf-escrow-ledger-audit-failure-modes)
 - [Why Your FHIR Migration Will Slip Two Quarters — and What to Do About It](https://waseemahmad.dev/blog/fhir-migration-timeline-risk)
-- [HL7 Integration: What It Costs, How Long It Takes, and What Goes Wrong](https://waseemahmad.dev/blog/hl7-integration-cost-timeline)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
