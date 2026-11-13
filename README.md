@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Your RAG System Gives Confident Wrong Answers — and What Fixing It Costs](https://waseemahmad.dev/blog/rag-hallucination-fix-retrieval-quality-first-2)
+- [What an AI Automation Project Actually Costs to Run](https://waseemahmad.dev/blog/ai-automation-total-cost-ownership)
 - [What Breaks When an HL7 Feed Goes from 500 to 10,000 Messages a Day](https://waseemahmad.dev/blog/hl7-interface-engine-scaling-failure-modes)
 - [Hire an Integration Specialist or a Backend Engineer? A Staffing Decision, Not a Technical One](https://waseemahmad.dev/blog/hire-integration-specialist-vs-backend-engineer)
 - [Healthcare Integration Due Diligence: Questions to Ask Before Sign-Off](https://waseemahmad.dev/blog/healthcare-integration-due-diligence-checklist)
-- [What a HIPAA Audit Actually Checks in Your Integration Layer](https://waseemahmad.dev/blog/hipaa-audit-integration-layer)
-- [Your AI Agent Works in the Demo. Here&#39;s What It Costs to Survive Real Users.](https://waseemahmad.dev/blog/ai-agent-production-readiness-cost)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
