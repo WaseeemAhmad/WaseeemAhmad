@@ -104,11 +104,11 @@ I'm currently **open to remote freelance and contract work** — full stack deve
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Your Team Need MCP, or Just an API Key?](https://waseemahmad.dev/blog/mcp-server-business-case-vs-api-key)
 - [What a Customer Support AI Will and Won&#39;t Handle, Honestly](https://waseemahmad.dev/blog/ai-customer-support-deflection-rate-honest-guide)
 - [Before You Approve an LLM Feature: Six Questions That Predict Whether It Ships](https://waseemahmad.dev/blog/llm-feature-approval-checklist)
 - [Why Your RAG System Gives Confident Wrong Answers — and What Fixing It Costs](https://waseemahmad.dev/blog/rag-hallucination-fix-retrieval-quality-first-2)
 - [What an AI Automation Project Actually Costs to Run](https://waseemahmad.dev/blog/ai-automation-total-cost-ownership)
-- [What Breaks When an HL7 Feed Goes from 500 to 10,000 Messages a Day](https://waseemahmad.dev/blog/hl7-interface-engine-scaling-failure-modes)
 <!-- BLOG-POST-LIST:END -->
 
 *[View all articles →](https://waseemahmad.dev/blog)*
